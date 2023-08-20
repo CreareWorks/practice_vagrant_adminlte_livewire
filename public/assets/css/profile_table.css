@@ -1,0 +1,26 @@
+/* 契約 */
+#contract_table_filter label input {
+  margin-left: 5px;
+  border-radius: 5px;
+  border: solid rgba(50, 200, 220, 0.311);
+}
+#contract_table_filter label {
+  font-weight: lighter;
+}
+#contract_table_paginate a {
+  margin: 0 5px 0 5px;
+}
+
+
+/* イラスト */
+#illust_table_filter label input {
+  margin-left: 5px;
+  border-radius: 5px;
+  border: solid rgba(50, 200, 220, 0.311);
+}
+#illust_table_filter label {
+  font-weight: lighter;
+}
+#illust_table_paginate a {
+  margin: 0 5px 0 5px;
+}

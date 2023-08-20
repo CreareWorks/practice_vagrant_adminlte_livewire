@@ -1,0 +1,26 @@
+.option{
+  width: 250px;
+}
+.color > a{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+}
+.black{
+  background-color: #000000;
+}
+.red{
+  background-color: #ff0000;
+}
+.blue{
+  background-color: #0000ff;
+}
+.yellow{
+  background-color: #ffee00;
+}
+.green{
+  background-color: rgb(0, 255, 0);
+}
+.white{
+  background-color: rgb(255, 255, 255);
+}
